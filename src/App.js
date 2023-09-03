@@ -1,4 +1,4 @@
-import Login from './Components/Login/Login'
+import Login from './Components/Login/Login';
 import Dashboard from './Components/Dashboard/Dashboard';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 

@@ -15,8 +15,8 @@ import { useNavigate } from "react-router-dom";
 function Login() {
   const Navigate = useNavigate();
   const handleClick = () => {
-    Navigate("/dashboard");
-  };
+    Navigate("/dashboard")
+  }
   return (
     <div className="login_container">
       <div className="left_login">

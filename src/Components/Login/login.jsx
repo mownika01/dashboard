@@ -47,10 +47,10 @@ function Login() {
                 }}
               ></GoogleLogin>
             </GoogleOAuthProvider>
-            <div className="ios_opt">
+           {/* <div className="ios_opt">
               <FcGoogle />
               <p className="title_opt">Sign in with Google</p>
-            </div>
+              </div> */}
             <div className="ios_opt">
               <AiFillApple color="#858585" />
               <p className="title_opt">Sign in with Apple</p>

@@ -1,0 +1,57 @@
+.total_container{
+    display: flex;
+    margin: 20px 80px;
+}
+.total{
+    display: flex;
+    gap: 50px;
+}
+
+.total_item{
+    width: 190px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid #E0E0E0;
+    box-shadow: 3px 4px 11px 0px #62626226;
+}
+
+.txt{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    margin: 10px 0 5px 0;
+}
+
+.amnt{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icon{
+    color:#FFFFFF;
+    margin-bottom: 5px;
+    padding: 2px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.point{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.num{
+    background-color: #E9F9EB;
+    color: #4AD15F;
+    padding: 6px 12px;
+    border-radius: 34px;
+    border: 0.5px solid #E0E0E0;
+    font-size: 10px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 600;
+}

@@ -1,0 +1,10 @@
+.barchart_container{
+    display: flex;
+    margin: 30px 80px;
+    background-color: linear-gradient(0deg, #E0E0E0, #E0E0E0),
+                      linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 2px solid #E0E0E0;   
+    box-shadow: 4px 4px 20px 0px #0000001A;   
+    border-radius: 20px;  
+    height: 230px;      
+}

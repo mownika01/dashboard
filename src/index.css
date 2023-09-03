@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root{
+  --font-poppins : 'Poppins', sans-serif;
+  --font-mono : 'Montserrat', sans-serif;
+  --font-lato : 'Lato', sans-serif;
+  --font-open: 'Open Sans', sans-serif;
+}

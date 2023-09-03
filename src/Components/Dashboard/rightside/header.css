@@ -1,0 +1,42 @@
+.header_container{
+    display: flex;
+    margin: 50px 80px 30px 80px;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+}
+.header_title{
+     font-size: 24px;
+     font-weight: 700;
+     font-family: 'Montserrat', sans-serif;
+}
+
+.input_field{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 30px;
+    background-color: white;
+    padding: 0 10px;
+    color: #858585;
+    border-radius: 10px;
+}
+.wrap input{
+    outline: none;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.input_field img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}

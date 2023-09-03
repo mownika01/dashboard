@@ -1,0 +1,59 @@
+.sidebar_container{
+    display: flex;
+    width: 100%;
+    color: white;
+    background: linear-gradient(180deg, #4285F4 0%, #3C83F9 100%);
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 30px;
+    border-radius: 30px;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+.menuitems{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.menuitem{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 14px;
+
+}
+.menu_title{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.new{
+    font-weight: 700;
+}
+.slidebar_title{
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px ;
+    font-size: 36px;
+}
+.heading_slidebar{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.contact a:nth-of-type(2){
+    margin: 10px 30px 50px 50px;
+}
+.contact a:nth-of-type(1){
+    margin: 20px 50px;
+}
